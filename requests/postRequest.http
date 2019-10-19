@@ -1,0 +1,7 @@
+POST http://localhost:5000/face
+content-type: application/json
+
+{
+    "id": "123123411",
+    "photoBase64": "SomeBase"
+}
